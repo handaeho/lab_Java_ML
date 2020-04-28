@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c2c6a2-20cd-4193-9048-47698bb88a9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1anX7XdlHcUzME65e4qfoHdR6l2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA_Class" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaion\IdeaProjects\ML" />
+      <recent name="C:\Users\gaion\IdeaProjects\ML\src\main\scala" />
+      <recent name="C:\Users\gaion\IdeaProjects\ML\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MLP">
+    <configuration name="BLR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BLR" />
+      <module name="ML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MLP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MLP" />
+      <module name="ML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MLR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MLR" />
+      <module name="ML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MLR_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MLR_2" />
+      <module name="ML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RFC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RFC" />
+      <module name="ML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MLP" />
+        <item itemvalue="Application.MLR" />
+        <item itemvalue="Application.MLR_2" />
+        <item itemvalue="Application.BLR" />
+        <item itemvalue="Application.RFC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ML" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ml [file:/C:/Users/gaion/IdeaProjects/ML/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ML-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3174905628415" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="78045411" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c2c6a2-20cd-4193-9048-47698bb88a9e" name="Default Changelist" comment="" />
+      <created>1587372164263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587372164263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1092" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587632316385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1092" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587632316385" />
+    <state x="1150" y="278" key="FileChooserDialogImpl" timestamp="1587945068588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1150" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587945068588" />
+    <state width="1069" height="331" key="GridCell.Tab.0.bottom" timestamp="1587632306419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1069" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587632306419" />
+    <state width="1069" height="331" key="GridCell.Tab.0.center" timestamp="1587632306419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1069" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587632306419" />
+    <state width="1069" height="331" key="GridCell.Tab.0.left" timestamp="1587632306419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1069" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587632306419" />
+    <state width="1069" height="331" key="GridCell.Tab.0.right" timestamp="1587632306419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1069" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587632306419" />
+    <state x="1010" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587611157774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1010" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587611157774" />
+    <state x="-6" y="3" width="932" height="1025" key="dock-window-1" timestamp="1587448700411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-6" y="3" width="932" height="1025" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587448700411" />
+    <state x="0" y="0" width="922" height="973" key="dock-window-2" timestamp="1587453726909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="922" height="973" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1587453726909" />
+    <state x="10" y="101" width="922" height="920" key="dock-window-3" timestamp="1587458781324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="10" y="101" width="922" height="920" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1587458781324" />
+    <state x="678" y="247" key="new project wizard" timestamp="1587686354060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="247" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587686354059" />
+  </component>
+</project>
